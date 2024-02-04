@@ -25,7 +25,11 @@ Here's a walkthrough of implemented features:
 <img src='https://recordit.co/7EGaYOddfJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-https://github.com/JohnnyPhan186/And102-Prework/assets/102921609/a92ebc93-a0eb-417b-b0b9-74a456f9b730
+
+
+https://github.com/JohnnyPhan186/AND102Prework/assets/102921609/28d4e631-8e59-4bf5-8ef1-c1930a1868cb
+
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
